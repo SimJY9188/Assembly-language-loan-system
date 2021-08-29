@@ -1,0 +1,3 @@
+﻿  Assembling asmFunction.asm...
+c:\Irvine\SmallWin.inc(11): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Loan System.vcxproj -> C:\Users\User\OneDrive\Documents\Tarc\Loan System\Debug\Loan System.exe
